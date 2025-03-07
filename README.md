@@ -20,6 +20,6 @@ This automation tool was originally developed for [**CPSP at Columbia University
    ```sh
    python kellybluebook.py
 
-![Demo of Automation](Kelly-Blue-Book/demonstration.gif)
+![Demo of Automation](demonstration.gif)
 
 
