@@ -92,8 +92,8 @@ def get_trade_in_value(make, model, year, mileage):
         #grabs make/model element
         try:
                 # Initialize the WebDriver service
-                service = Service('/Users/janiragayle/Desktop/Kelly Blue Book/chromedriver')
-                driver = webdriver.Chrome(service=service)
+                #service = Service('/Users/janiragayle/Desktop/Kelly Blue Book/chromedriver')
+                driver = webdriver.Safari()
 
                 # Navigate to a website
                 driver.get("https://www.kbb.com/whats-my-car-worth/")
